@@ -20,5 +20,9 @@ This project contains a Tableau dashboard (`DashBoard_Video_Game_Sales_Analysis.
 ## Contributing
 Feel free to fork this repository and submit pull requests for any improvements or additional features.
 
+##Screenshot:
+![image](https://github.com/user-attachments/assets/8384e0cc-e3c2-4773-a2bc-a4a4fcd68871)
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
